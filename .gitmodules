@@ -1,0 +1,3 @@
+[submodule "wetalk_frontend"]
+	path = wetalk_frontend
+	url = ./wetalk_frontend
